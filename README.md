@@ -1,7 +1,7 @@
 ## Hi there 👋
 I like Free & Open-source software.
-So naturally I moved away from github, I don't like the idea of Microsoft owning my (shitty) code.
-All my code is now accessible on my self-hosted server : 
+
+All my personnal projets is now accessible on my self-hosted git server : 
 https://git.rufous-trench.ts.net/Crizomb
 
 <!--
