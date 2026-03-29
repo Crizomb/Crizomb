@@ -2,7 +2,7 @@
 I like Free & Open-source software.
 
 All my personnal projets is now accessible on my self-hosted git server : 
-https://git.crizomb.com/
+[https://git.crizomb.com/](https://git.crizomb.com/Crizomb?tab=overview)
 
 <!--
 **Crizomb/Crizomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
