@@ -1,7 +1,7 @@
 ## Hi there 👋
 I like Free & Open-source software.
-
-GitHub is cringe. What are you doing here?
+I also like digital independence and data sovereignty.
+Naturally I leaved GitHub (closed source software controlled by Microsoft).
 
 All my personnal projets is now accessible on my self-hosted git server : 
 [https://git.crizomb.com/](https://git.crizomb.com/Crizomb?tab=overview)
